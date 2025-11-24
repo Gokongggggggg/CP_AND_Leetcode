@@ -1,3 +1,15 @@
+/**
+ * Problem: Leetcode 169 - Majority Element
+ * Link: https://neetcode.io/problems/majority-element-ii/question
+ * Approach: Boyer-Moore Voting Algorithm
+ * Time Complexity: O(n)
+ * Space Complexity: O(1)
+ * * Intuition:
+ * Since the majority element appears more than n/2 times, we can consider it as having "+1 vote"
+ * and all other elements as having "-1 vote". By canceling them out against each other,
+ * the element that remains is guaranteed to be the majority element.
+ */
+
 class Solution {
 public:
     vector<int> majorityElement(vector<int>& nums) {
