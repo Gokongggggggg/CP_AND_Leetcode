@@ -24,6 +24,6 @@ The **detailed intuition, thought process, complexity analysis (Big O), and step
 
 | **Documentation Hub** | **How to Find the Solution** |
 | :--- | :--- |
-| ➡️ **[[Click Here to View the Notion]([url](https://foul-spur-595.notion.site/CP-LeetCode-2bcc2f748fa2807bafabefed14d6f07c))]** | Use the Notion search bar and look for the problem name (e.g., "Valid Palindrome" or "Two Sum"). |
+| ➡️ **[Click Here to View the Notion](https://foul-spur-595.notion.site/CP-LeetCode-2bcc2f748fa2807bafabefed14d6f07c)** | Use the Notion search bar and look for the problem name (e.g., "Valid Palindrome" or "Two Sum"). |
 
 ---
